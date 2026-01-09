@@ -4,7 +4,7 @@ A structured system for founders who know they should be talking to customers bu
 
 **Turn outreach from "I should probably talk to people" into a repeatable workflow.**
 
-📖 **[View the full documentation →](https://myrs.notion.site/outreach-engine?source=copy_link)**
+📖 **[View the full documentation →](https://myrs.notion.site/outreach-engine)**
 
 ## What This Is
 
